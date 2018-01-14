@@ -18,3 +18,14 @@ INSERT INTO users (name, age) VALUES ("user17", 1);
 INSERT INTO users (name, age) VALUES ("user18", 1);
 INSERT INTO users (name, age) VALUES ("user19", 1);
 INSERT INTO users (name, age) VALUES ("user20", 1);
+
+INSERT INTO projects (title) VALUES ("hi");
+INSERT INTO projects (title) VALUES ("hi");
+INSERT INTO projects (title) VALUES ("hi");
+INSERT INTO projects (title) VALUES ("hi");
+INSERT INTO projects (title) VALUES ("hi");
+INSERT INTO projects (title) VALUES ("hi");
+INSERT INTO projects (title) VALUES ("hi");
+INSERT INTO projects (title) VALUES ("hi");
+INSERT INTO projects (title) VALUES ("hi");
+INSERT INTO projects (title) VALUES ("hi");
