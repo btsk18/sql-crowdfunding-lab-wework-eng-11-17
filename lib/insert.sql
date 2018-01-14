@@ -60,6 +60,3 @@ INSERT INTO pledges (amount) VALUES (1);
 INSERT INTO pledges (amount) VALUES (1);
 INSERT INTO pledges (amount) VALUES (1);
 INSERT INTO pledges (amount) VALUES (1);
-INSERT INTO pledges (amount) VALUES (1);
-INSERT INTO pledges (amount) VALUES (1);
-INSERT INTO pledges (amount) VALUES (1);
