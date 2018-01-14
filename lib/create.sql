@@ -1,4 +1,5 @@
 CREATE TABLE projects (
+  id INT,
   title TEXT,
   category TEXT,
   funding_goal INT,
